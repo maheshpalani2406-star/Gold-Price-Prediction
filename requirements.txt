@@ -1,6 +1,11 @@
 streamlit
-yfinance
 pandas
 numpy
 matplotlib
+yfinance
 statsmodels
+scikit-learn
+python-dateutil
+pytz
+hashlib2
+json5
